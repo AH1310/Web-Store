@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Web Store",
+  "short_name": "Web Store",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d111b",
+  "theme_color": "#0d111b",
+  "description": "اكتشف تطبيقات الويب وانشر تطبيقك",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
