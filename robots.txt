@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /Web-Store/
+Disallow: /Web-Store/setup.html
+Sitemap: https://ah1310.github.io/Web-Store/sitemap.xml
